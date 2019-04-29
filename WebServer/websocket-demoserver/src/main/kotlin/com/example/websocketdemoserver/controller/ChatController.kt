@@ -1,6 +1,5 @@
 package com.example.websocketdemoserver.controller
 
-import org.springframework.messaging.simp.SimpMessageHeaderAccessor.getSessionAttributes
 import org.springframework.messaging.simp.SimpMessageHeaderAccessor
 import com.example.websocketdemoserver.model.ChatMessage
 import org.springframework.messaging.handler.annotation.SendTo
